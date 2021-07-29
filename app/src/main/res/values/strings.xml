@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AddUser_Detail</string>
+    <string name="missing_Name">Name is Missing!</string>
+    <string name="invalid_phnNo">Invalid Mobile Number!</string>
+    <string name="dob_missing">D.O.B is missing!</string>
+    <string name="userAdded_successful">User Added Successfully!!</string>
+    <string name="spinner_invalid">Select Correct Gender!</string>
+    <string name="added_successful">Record added successfully!</string>
+    <string-array name="gender_dropdown_array">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>TransGender</item>
+    </string-array>
+</resources>
